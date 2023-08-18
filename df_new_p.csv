@@ -1,0 +1,389 @@
+name,squad_size,stadium_name,net_transfer_record,average_age,foreigners_number,national_team_players
+Bayern Munich,29.0,Allianz Arena,+€15.00m,25.8,18.0,22.0
+FC Barcelona,24.0,Spotify Camp Nou,+€32.00m,25.8,13.0,19.0
+Real Madrid,24.0,Santiago Bernabéu,€-128.50m,26.6,16.0,19.0
+Manchester City,25.0,Etihad Stadium,+€10.90m,26.7,16.0,18.0
+Juventus FC,35.0,Allianz Stadium,€-39.60m,25.7,19.0,16.0
+Celtic FC,32.0,Celtic Park,+€15.07m,25.3,25.0,16.0
+Paris Saint-Germain,39.0,Parc des Princes,€-128.00m,25.2,26.0,21.0
+SL Benfica,27.0,Estádio da Luz,€-28.32m,24.6,15.0,11.0
+Atlético de Madrid,30.0,Civitas Metropolitano,+€43.30m,27.4,17.0,17.0
+Olympiacos Piraeus,36.0,Stadio Georgios Karaiskakis,+€4.50m,26.6,26.0,15.0
+Ajax Amsterdam,22.0,Johan Cruijff ArenA,+€55.90m,23.5,8.0,13.0
+FC Porto,30.0,Estádio do Dragão,€-7.90m,26.2,16.0,8.0
+Chelsea FC,31.0,Stamford Bridge,+€141.90m,23.3,20.0,17.0
+SSC Napoli,30.0,Stadio Diego Armando Maradona,+€17.50m,25.4,17.0,17.0
+PSV Eindhoven,23.0,Philips Stadion,€-9.63m,25.4,12.0,7.0
+Liverpool FC,22.0,Anfield,€-51.30m,26.3,17.0,14.0
+Manchester United,35.0,Old Trafford,€-91.20m,25.3,22.0,21.0
+Arsenal FC,33.0,Emirates Stadium,€-211.70m,25.1,25.0,23.0
+Borussia Dortmund,30.0,SIGNAL IDUNA PARK,+€59.35m,24.7,15.0,18.0
+Sevilla FC,32.0,Ramón Sánchez-Pizjuán,€-10.00m,27.9,21.0,11.0
+Sporting CP,31.0,Estádio José Alvalade XXI,+€84.00m,24.2,17.0,9.0
+Shakhtar Donetsk,36.0,Arena Lviv,€-8.75m,23.0,10.0,13.0
+Tottenham Hotspur,32.0,Tottenham Hotspur Stadium,€-124.70m,26.0,22.0,21.0
+Inter Milan,27.0,Giuseppe Meazza,+€80.75m,26.0,15.0,15.0
+PAOK Thessaloniki,29.0,Toumba Stadium,+€3.00m,26.3,20.0,7.0
+AS Roma,25.0,Olimpico di Roma,+€36.20m,26.7,17.0,16.0
+Zenit St. Petersburg,26.0,Gazprom Arena,+€37.30m,26.0,11.0,11.0
+Feyenoord Rotterdam,25.0,"Stadion Feyenoord ""De Kuip""",+€18.30m,23.2,12.0,12.0
+SS Lazio,32.0,Olimpico di Roma,+€22.04m,26.5,18.0,7.0
+Dynamo Kyiv,34.0,Valeriy Lobanovsky Stadion,+-0,24.5,5.0,8.0
+SC Braga,28.0,Estádio Municipal de Braga,€-10.30m,26.0,17.0,3.0
+AC Milan,33.0,Giuseppe Meazza,€-26.50m,25.8,26.0,17.0
+Fenerbahce,36.0,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,+€17.24m,25.7,16.0,15.0
+FC Copenhagen,28.0,Parken,+€11.63m,25.0,17.0,9.0
+AZ Alkmaar,31.0,AFAS Stadion,+€36.17m,23.0,12.0,6.0
+Bayer 04 Leverkusen,28.0,BayArena,+€12.50m,24.3,19.0,14.0
+Besiktas JK,32.0,Vodafone Park,€-3.75m,25.0,13.0,12.0
+Olympique Lyon,24.0,Groupama Stadium,+€19.91m,25.5,12.0,4.0
+CSKA Moscow,27.0,VEB Arena,+€3.70m,24.2,10.0,6.0
+Club Brugge KV,32.0,Jan-Breydel-Stadion,+€24.25m,23.9,20.0,11.0
+Galatasaray,32.0,Ali Sami Yen Spor Kompleksi RAMS Park,€-9.50m,25.1,15.0,15.0
+Villarreal CF,24.0,La Cerámica,+€98.20m,28.3,8.0,5.0
+FC Midtjylland,29.0,MCH Arena,€-7.10m,24.9,18.0,7.0
+Aberdeen FC,22.0,Pittodrie Stadium,+€1.72m,25.0,15.0,4.0
+AS Monaco,28.0,Stade Louis-II,€-4.00m,23.8,28.0,10.0
+Valencia CF,25.0,Mestalla,€-9.60m,24.0,12.0,8.0
+Olympique Marseille,25.0,Orange Vélodrome,€-34.50m,26.0,18.0,15.0
+Rangers FC,34.0,Ibrox Stadium,€-11.90m,26.3,24.0,10.0
+Atalanta BC,35.0,Gewiss Stadium,+€5.50m,25.7,23.0,14.0
+ACF Fiorentina,30.0,Artemio Franchi,+€19.20m,25.7,17.0,9.0
+Athletic Bilbao,28.0,San Mamés,+-0,26.6,1.0,3.0
+Real Sociedad,27.0,Reale Arena,+€6.30m,24.4,5.0,7.0
+Panathinaikos Athens,29.0,Apostolos Nikolaidis,€-3.00m,27.9,22.0,10.0
+FK Krasnodar,22.0,Stadion Krasnodar,+€3.28m,24.1,11.0,6.0
+RSC Anderlecht,29.0,Lotto Park,+€12.50m,23.3,14.0,10.0
+KRC Genk,28.0,Cegeka Arena,€-10.50m,22.9,19.0,10.0
+Borussia Mönchengladbach,33.0,Stadion im Borussia-Park,€-4.28m,24.5,17.0,9.0
+Trabzonspor,30.0,Şenol Güneş Spor Kompleksi,€-4.22m,24.8,13.0,12.0
+Spartak Moscow,30.0,Otkrytie Bank Arena,€-9.00m,24.5,9.0,12.0
+Eintracht Frankfurt,40.0,Deutsche Bank Park,€-34.90m,24.4,24.0,13.0
+VfL Wolfsburg,29.0,Volkswagen Arena,+€3.50m,23.8,18.0,11.0
+AEK Athens,31.0,OPAP Arena,€-5.85m,26.9,21.0,13.0
+Lokomotiv Moscow,29.0,RZD Arena,+€1.53m,23.7,5.0,9.0
+LOSC Lille,24.0,Decathlon Arena-Stade Pierre-Mauroy,€-10.20m,23.8,15.0,8.0
+Vitesse Arnhem,23.0,GelreDome,+-0,23.9,11.0,4.0
+KAA Gent,25.0,Ghelamco Arena,+€6.57m,25.4,11.0,3.0
+Bröndby IF,30.0,Brøndby Stadion,+€5.95m,24.3,13.0,4.0
+RB Leipzig,29.0,Red Bull Arena,+€24.70m,24.6,21.0,19.0
+Basaksehir FK,29.0,Başakşehir Fatih Terim,+-0,26.8,15.0,9.0
+Everton FC,26.0,Goodison Park,+€34.80m,27.1,14.0,9.0
+OGC Nice,26.0,Allianz Riviera,€-24.50m,24.0,14.0,12.0
+FC Utrecht,31.0,"Stadion ""Galgenwaard""",€-4.35m,25.2,16.0,4.0
+Real Betis Balompié,27.0,Benito Villamarín,+€14.50m,28.2,14.0,8.0
+Stade Rennais FC,29.0,Roazhon Park,€-8.50m,24.3,10.0,8.0
+Standard Liège,31.0,Maurice Dufrasne Stadion,€-1.20m,23.4,17.0,10.0
+West Ham United,23.0,London Stadium,+€118.60m,27.8,17.0,13.0
+Leicester City,25.0,King Power Stadium,+€26.00m,27.1,14.0,11.0
+FC Schalke 04,27.0,Veltins-Arena,+€10.30m,26.4,12.0,4.0
+Zorya Lugansk,30.0,Valeriy Lobanovsky Stadion,€-600k,23.8,2.0,2.0
+Torino FC,28.0,Stadio Olimpico Grande Torino,€-23.85m,24.5,21.0,15.0
+Vitória Guimarães SC,32.0,Estádio D. Afonso Henriques,+€10.05m,24.6,11.0,3.0
+Celta de Vigo,25.0,Abanca Balaídos,+€8.00m,25.4,9.0,6.0
+AS Saint-Étienne,29.0,Stade Geoffroy-Guichard,+€12.85m,25.1,8.0,3.0
+St. Johnstone FC,20.0,McDiarmid Park,+-0,27.1,8.0,2.0
+Aalborg BK,27.0,Aalborg Portland Park,+€350k,24.5,10.0,0.0
+Southampton FC,29.0,St Mary's Stadium,+€2.40m,24.5,20.0,13.0
+Twente Enschede FC,21.0,De Grolsch Veste,+€9.10m,24.2,9.0,2.0
+TSG 1899 Hoffenheim,29.0,PreZero Arena,+€13.70m,25.1,13.0,10.0
+Motherwell FC,22.0,Fir Park,+€586k,26.3,13.0,2.0
+Atromitos Athens,26.0,Stadio Peristeriou,+-0,24.5,10.0,1.0
+Asteras Tripolis,30.0,Gipedo Theodoros Kolokotronis,+€100k,26.0,19.0,0.0
+SC Heerenveen,19.0,Abe Lenstra Stadion,+€4.30m,24.5,10.0,1.0
+FK Rostov,31.0,Rostov Arena,+-0,24.4,4.0,7.0
+SC Freiburg,25.0,Europa-Park Stadion,+€34.30m,25.8,9.0,9.0
+Udinese Calcio,30.0,Dacia Arena,€-3.99m,24.3,23.0,8.0
+Dynamo Moscow,26.0,VTB-Arena,+€12.25m,25.2,10.0,10.0
+UC Sampdoria,33.0,Luigi Ferraris,+€1.75m,24.3,5.0,4.0
+1.FSV Mainz 05,29.0,Mewa Arena,+€6.05m,25.1,12.0,6.0
+FC Nordsjaelland,30.0,Right to Dream Park,€-2.95m,21.9,15.0,5.0
+Akhmat Grozny,25.0,Akhmat-Arena,+€200k,26.6,9.0,2.0
+FC Girondins Bordeaux,26.0,Matmut Atlantique,+€12.70m,22.7,13.0,6.0
+Montpellier HSC,24.0,Stade de la Mosson,+€6.30m,25.1,10.0,5.0
+Randers FC,25.0,Cepheus Park Randers,+€1.25m,24.8,10.0,2.0
+US Sassuolo,29.0,Mapei Stadium - Città del Tricolore,+€45.92m,25.2,18.0,8.0
+Newcastle United,31.0,St James' Park,€-71.40m,27.3,18.0,14.0
+RSC Charleroi,28.0,Stade du Pays de Charleroi,+€2.60m,23.6,17.0,7.0
+RCD Espanyol Barcelona,26.0,RCDE Stadium,+€5.50m,25.4,6.0,4.0
+Rio Ave FC,26.0,Estádio dos Arcos,+-0,27.2,12.0,0.0
+Kasimpasa,27.0,Recep Tayyip Erdoğan Stadyumu,€-1.00m,23.6,9.0,2.0
+FC Groningen,29.0,Euroborg,€-586k,22.9,10.0,1.0
+Crystal Palace,25.0,Selhurst Park,+-0,26.2,12.0,8.0
+Rubin Kazan,33.0,Ak Bars Arena,€-2.81m,25.7,10.0,3.0
+SV Zulte Waregem,25.0,Elindus Arena,+€4.00m,25.2,13.0,3.0
+Heracles Almelo,30.0,Erve Asito,+-0,23.8,15.0,1.0
+PEC Zwolle,28.0,MAC³PARK stadion,+€4.75m,25.1,12.0,0.0
+Sivasspor,28.0,Yeni 4 Eylül Stadı,+€400k,27.0,9.0,2.0
+Vorskla Poltava,25.0,Vorskla im. Oleksiy Butovskyi,+€1.00m,24.0,8.0,2.0
+Hibernian FC,26.0,Easter Road Stadium,+€592k,26.2,19.0,4.0
+Heart of Midlothian FC,24.0,Tynecastle Park,+€150k,26.8,13.0,8.0
+CS Marítimo,29.0,Estádio do Marítimo,+€200k,27.2,19.0,2.0
+FC Augsburg,35.0,WWK ARENA,+€1.45m,24.1,20.0,7.0
+Getafe CF,26.0,Coliseum Alfonso Pérez,€-7.50m,27.4,14.0,7.0
+Konyaspor,28.0,Medaş Konya Büyükşehir Stadyumu,+-0,25.0,8.0,3.0
+SönderjyskE,30.0,Sydbank Park,+€1.80m,24.0,9.0,1.0
+SV Werder Bremen,26.0,Wohninvest-Weserstadion,+€4.55m,26.2,10.0,7.0
+Odense Boldklub,25.0,Nature Energy Park,+€8.59m,23.6,14.0,5.0
+Hertha BSC,36.0,Olympiastadion Berlin,+€6.70m,24.1,14.0,7.0
+FC Nantes,29.0,Stade de la Beaujoire,+€6.35m,25.0,10.0,7.0
+Bologna FC 1909,31.0,Stadio Renato Dall’Ara,€-15.50m,24.3,23.0,7.0
+Kilmarnock FC,23.0,"BBSP Stadium, Rugby Park",+-0,24.5,10.0,1.0
+Antalyaspor,26.0,Corendon Airlines Park Antalya Stadı,+€425k,25.8,11.0,4.0
+PAS Giannina,30.0,Stadio Zosimades,+-0,25.3,14.0,0.0
+Aarhus GF,32.0,Ceres Park,+€6.33m,23.9,12.0,3.0
+Levante UD,23.0,Ciutat de València,+€7.80m,27.5,6.0,0.0
+KV Kortrijk,24.0,Guldensporenstadion,+€6.00m,24.0,13.0,5.0
+FC Paços de Ferreira,32.0,Estádio Capital do Móvel,+-0,25.5,17.0,1.0
+Genoa CFC,31.0,Luigi Ferraris,€-23.70m,26.5,17.0,5.0
+KV Mechelen,28.0,AFAS Stadion,€-400k,24.2,8.0,2.0
+Ural Yekaterinburg,26.0,Yekaterinburg Arena,€-670k,27.5,12.0,1.0
+VfB Stuttgart,34.0,Mercedes-Benz Arena,€-13.45m,23.5,18.0,10.0
+Royal Antwerp FC,30.0,De Bosuil,+€1.85m,24.6,16.0,5.0
+Panionios Athens,34.0,Stadio Neas Smyrnis,+-0,23.5,4.0,0.0
+Cagliari Calcio,31.0,Unipol Domus,+€2.60m,26.2,13.0,5.0
+Granada CF,26.0,Nuevo Los Cármenes,€-3.70m,27.0,7.0,3.0
+Kayserispor,26.0,RHG Enertürk Enerji Stadyumu,+-0,23.8,11.0,3.0
+Ross County FC,29.0,Global Energy Stadium,€-70k,24.8,14.0,1.0
+KV Oostende,26.0,Diaz Arena,+-0,23.3,14.0,2.0
+Dundee United FC,25.0,Tannadice Park,+€350k,24.7,8.0,2.0
+Rayo Vallecano,25.0,Campo de Fútbol de Vallecas,+€2.50m,28.2,10.0,5.0
+Willem II Tilburg,27.0,Koning Willem II Stadion,+€385k,25.9,7.0,0.0
+Stade Reims,32.0,Stade Auguste-Delaune,+€11.05m,24.3,23.0,10.0
+Hellas Verona,30.0,Marcantonio Bentegodi,+€43.46m,25.7,18.0,7.0
+Alanyaspor,32.0,Kırbıyık Holding Stadyumu,€-1.50m,25.2,13.0,5.0
+1.FC Köln,27.0,RheinEnergieSTADION,+€200k,24.9,9.0,6.0
+GD Estoril Praia,27.0,Estádio António Coimbra da Mota,+€8.00m,23.6,14.0,2.0
+Moreirense FC,23.0,E. C. J. de Almeida Freitas,€-1.00m,25.4,16.0,0.0
+Aston Villa,28.0,Villa Park,€-85.10m,26.2,18.0,13.0
+Panetolikos GFS,31.0,Gipedo Panetolikou,+-0,24.9,12.0,4.0
+ADO Den Haag,34.0,Bingoal Stadion,+-0,23.5,9.0,4.0
+FC Lorient,34.0,Stade du Moustoir,+€38.00m,24.1,18.0,10.0
+Wolverhampton Wanderers,28.0,Molineux Stadium,+€43.30m,25.6,24.0,15.0
+Inverness Caledonian Thistle FC,26.0,Tulloch Caledonian Stadium,+-0,24.5,9.0,0.0
+CA Osasuna,24.0,El Sadar,+-0,28.2,4.0,3.0
+Aris Thessaloniki,28.0,"Gipedo ""Kleanthis Vikelidis""",+€2.15m,27.9,25.0,5.0
+Esbjerg fB,27.0,Blue Water Arena,+-0,22.7,10.0,2.0
+Boavista FC,31.0,Estádio do Bessa Sec. XXI,€-2.50m,23.5,14.0,4.0
+SD Eibar,26.0,Ipurua,+€2.60m,28.3,5.0,0.0
+FC Toulouse,30.0,Stadium Municipal,€-3.50m,22.8,23.0,8.0
+Burnley FC,32.0,Turf Moor,€-63.40m,24.7,24.0,15.0
+Deportivo Alavés,21.0,Mendizorroza,€-800k,25.5,10.0,4.0
+Krylya Sovetov Samara,27.0,Solidarnost Samara Arena,€-1.00m,24.9,7.0,3.0
+Brighton & Hove Albion,35.0,AMEX Stadium,€-30.30m,24.7,27.0,17.0
+Bursaspor,26.0,Bursa Büyükşehir Belediye Stadyumu,+-0,21.4,0.0,0.0
+St. Mirren FC,23.0,The SMISA Stadium,€-146k,26.0,17.0,5.0
+FK Oleksandriya,22.0,KSK Nika,+€730k,23.9,1.0,2.0
+Genclerbirligi Ankara,34.0,Eryaman Stadyumu,+€195k,26.1,10.0,1.0
+Swansea City,22.0,Swansea.com Stadium,+€8.35m,24.8,17.0,4.0
+OFI Crete FC,31.0,Gipedo Theodoros Vardinogiannis,+-0,27.3,18.0,4.0
+Málaga CF,27.0,La Rosaleda,+€950k,27.9,8.0,0.0
+APO Levadiakos,31.0,Stadio Livadias,+-0,27.5,17.0,0.0
+Sint-Truidense VV,30.0,Daio Wasabi Stayen Stadium,€-60k,23.2,12.0,3.0
+Angers SCO,27.0,Stade Raymond Kopa,+€3.50m,24.2,12.0,5.0
+Chornomorets Odessa,21.0,Stadion Chornomorets (2011),+-0,25.1,5.0,0.0
+1.FC Union Berlin,32.0,Stadion An der Alten Försterei,€-13.10m,25.8,19.0,12.0
+AFC Bournemouth,27.0,Vitality Stadium,€-69.69m,26.0,18.0,12.0
+Caykur Rizespor,27.0,Çaykur Didi,+-0,25.3,6.0,0.0
+Stoke City,24.0,bet365 Stadium,+€17.00m,26.7,9.0,6.0
+Hannover 96,28.0,Heinz-von-Heiden-Arena,€-300k,25.0,6.0,1.0
+West Bromwich Albion,25.0,The Hawthorns,€-1.35m,27.8,8.0,4.0
+Hamburger SV,30.0,Volksparkstadion,€-6.00m,23.6,15.0,4.0
+FK Ufa,26.0,Neftyanik,+€4.84m,24.4,3.0,0.0
+Watford FC,30.0,Vicarage Road,+€42.02m,26.3,24.0,12.0
+Akhisarspor,14.0,Spor Toto Akhisar Stadyumu,+€5k,21.0,0.0,0.0
+AC Horsens,19.0,Nordstern Arena Horsens,+-0,25.1,9.0,4.0
+Gil Vicente FC,31.0,Estádio Cidade de Barcelos,+€7.70m,23.6,18.0,3.0
+FC Arouca,25.0,Estádio Municipal de Arouca,+€2.44m,25.6,19.0,1.0
+Sparta Rotterdam,24.0,"Sparta-stadion ""Het Kasteel""",€-650k,24.5,12.0,2.0
+RC Strasbourg Alsace,27.0,Stade de la Meinau,€-33.00m,24.8,13.0,7.0
+EA Guingamp,27.0,Stade du Roudourou,+€3.70m,25.4,7.0,1.0
+Vitória Setúbal FC,29.0,Estádio do Bonfim,+-0,26.0,10.0,0.0
+NEC Nijmegen,21.0,Goffertstadion,+€2.68m,24.2,7.0,1.0
+Arsenal Tula,27.0,Arsenal,+€1.80m,27.4,2.0,1.0
+CD Nacional,27.0,Estádio da Madeira,+-0,25.0,12.0,2.0
+Parma Calcio 1913,30.0,Ennio Tardini,€-4.37m,24.9,23.0,6.0
+FC Empoli,29.0,Carlo Castellani,+€44.30m,24.1,11.0,5.0
+Portimonense SC,26.0,Portimonense Estádio,+€2.65m,23.7,18.0,1.0
+Real Valladolid CF,22.0,Nuevo José Zorrilla,+€2.50m,27.2,11.0,6.0
+Cercle Brugge,24.0,Jan-Breydel-Stadion,€-1.00m,23.5,14.0,3.0
+Hamilton Academical FC,28.0,Fountain of Youth Stadium,+-0,22.8,9.0,0.0
+Silkeborg IF,24.0,JYSK Park,+€746k,23.3,4.0,2.0
+Dundee FC,25.0,Kilmac Stadium at Dens Park,+-0,24.3,10.0,2.0
+CD Tondela,26.0,Estádio João Cardoso,+€50k,22.8,12.0,2.0
+Excelsior Rotterdam,26.0,Van Donge & De Roo Stadion - Woudestein,€-175k,23.1,11.0,0.0
+CD Santa Clara,38.0,Estádio de São Miguel,+-0,25.4,20.0,2.0
+RC Lens,29.0,Stade Bollaert-Delelis,+€41.64m,25.0,16.0,11.0
+SK Beveren,27.0,Freethielstadion,€-350k,26.8,16.0,3.0
+SK Dnipro-1,30.0,Avangard,€-1.83m,27.2,7.0,7.0
+Go Ahead Eagles,26.0,De Adelaarshorst,€-850k,24.0,10.0,2.0
+Livingston FC,25.0,Tony Macaroni Arena,+-0,27.7,14.0,2.0
+Partick Thistle FC,19.0,The Energy Check Stadium at Firhill,+-0,27.9,1.0,0.0
+SC Cambuur Leeuwarden,16.0,Cambuurstadion,+-0,23.1,4.0,3.0
+SC Bastia,25.0,Stade Armand-Cesari,+€480k,27.6,8.0,6.0
+FK Orenburg,26.0,Gazovik,€-3.10m,25.3,13.0,3.0
+FC Sochi,26.0,Fisht Olympic Stadium,+€3.05m,26.3,10.0,2.0
+CF Os Belenenses,30.0,Estádio do Restelo,+-0,25.7,5.0,0.0
+Fulham FC,25.0,Craven Cottage,€-28.90m,28.0,23.0,13.0
+Elche CF,18.0,Manuel Martínez Valero,+€1.00m,27.3,5.0,0.0
+KAS Eupen,24.0,Kehrweg-Stadion,+€1.30m,23.8,16.0,4.0
+RKC Waalwijk,25.0,Mandemakers Stadion,+-0,25.1,11.0,3.0
+Oud-Heverlee Leuven,28.0,King Power at Den Dreef Stadion,+€2.40m,24.6,15.0,2.0
+Fortuna Sittard,22.0,Fortuna Sittard Stadion,+-0,25.2,17.0,2.0
+Viborg FF,25.0,Viborg Stadion,+€2.37m,22.6,13.0,3.0
+Göztepe,31.0,Gürsel Aksel Stadyumu,+€1.60m,23.3,10.0,0.0
+CD Leganés,23.0,Butarque,+€1.00m,28.6,8.0,3.0
+SM Caen,27.0,Stade Michel-d'Ornano,+€3.05m,25.7,12.0,4.0
+Royale Union Saint Gilloise,25.0,Stade Joseph Mariën,+€25.65m,24.8,16.0,4.0
+Amkar Perm,26.0,Zvezda,+-0,26.0,0.0,0.0
+RCD Mallorca,21.0,Mallorca Son Moix,+€16.20m,27.4,9.0,5.0
+Roda JC Kerkrade,25.0,Parkstad Limburg Stadion,+€1.30m,24.0,9.0,0.0
+Veria NPS,29.0,Dimotiko Stadio Verias,+-0,24.3,4.0,0.0
+FC Famalicão,29.0,Estádio Municipal de Famalicão,+€1.70m,23.2,18.0,5.0
+NAC Breda,32.0,Rat Verlegh Stadion,+€115k,23.7,10.0,2.0
+Stade Brestois 29,23.0,Stade Francis-Le Blé,+€4.50m,25.4,7.0,4.0
+Lyngby BK,26.0,Lyngby Stadion,+-0,24.1,7.0,2.0
+PAS Lamia 1964,35.0,"Stadio Lamia ""Athanasios Diakos""",+-0,28.1,18.0,4.0
+FC Metz,26.0,Stade Saint-Symphorien,+€11.10m,24.9,17.0,5.0
+VVV-Venlo,28.0,Covebo Stadion - De Koel,+-0,22.9,7.0,0.0
+Yeni Malatyaspor,10.0,Yeni Malatya Stadyumu,+€778k,22.9,1.0,0.0
+Sheffield United,24.0,Bramall Lane,€-7.30m,25.8,17.0,9.0
+Sunderland AFC,26.0,Stadium of Light,€-6.06m,23.5,12.0,6.0
+AE Larisa,28.0,Stadio Alkazar,+-0,24.2,6.0,0.0
+GD Chaves,31.0,Estádio Municipal Eng.º Manuel Branco Teixeira,+€450k,24.9,19.0,3.0
+Cádiz CF,33.0,Nuevo Mirandilla,+€3.50m,28.0,12.0,5.0
+Spezia Calcio,32.0,Alberto Picco,€-3.95m,24.4,25.0,11.0
+Girona FC,27.0,Montilivi,€-1.10m,26.2,11.0,5.0
+Fatih Karagümrük,25.0,Atatürk Olimpiyat,+-0,24.9,11.0,4.0
+Norwich City,25.0,Carrow Road,€-10.33m,26.0,17.0,12.0
+UD Las Palmas,23.0,Estadio de Gran Canaria,€-1.40m,27.1,5.0,3.0
+Hobro IK,22.0,DS Arena,+-0,24.8,4.0,2.0
+Gaziantep FK,29.0,Kalyon Stadyumu,+-0,24.9,11.0,2.0
+Panthrakikos Komotini,29.0,Stadio Komotinis OPAP,+-0,24.3,3.0,0.0
+Deportivo de La Coruña,24.0,Abanca Riazor,€-435k,27.7,3.0,0.0
+UD Almería,26.0,Power Horse Stadium,+€17.00m,25.5,15.0,1.0
+FK Khimki,26.0,Arena Khimki,€-595k,24.7,7.0,1.0
+FC Emmen,17.0,De Oude Meerdijk,+-0,25.6,6.0,0.0
+Hull City,28.0,MKM Stadium,+€7.50m,25.0,17.0,6.0
+Volos NPS,28.0,Panthessaliko Stadio,+-0,25.6,15.0,3.0
+Leeds United,27.0,Elland Road,+€930k,24.6,18.0,9.0
+Dijon FCO,29.0,Stade Gaston-Gérard,+€1.50m,25.8,14.0,4.0
+Palermo FC,28.0,"Comunale Renzo Barbera ""La Favorita""",€-7.94m,25.6,7.0,4.0
+Fortuna Düsseldorf,29.0,MERKUR SPIEL-ARENA,+€600k,25.9,12.0,2.0
+Apollon Smyrnis,27.0,Stadio Neas Smyrnis,+-0,27.3,15.0,0.0
+MKE Ankaragücü,27.0,Eryaman Stadyumu,+€50k,26.1,12.0,4.0
+Eskisehirspor,41.0,Eskişehir Yeni Stadyum,+-0,23.9,1.0,0.0
+Ankaraspor,30.0,Osmanlı Stadı,+-0,23.8,1.0,0.0
+Brentford FC,28.0,Brentford Community Stadium,€-58.35m,25.5,21.0,16.0
+Kolos Kovalivka,24.0,Kolos,+€300k,26.1,3.0,1.0
+CD Feirense,24.0,Estádio Marcolino de Castro,+€325k,25.0,11.0,2.0
+VfL Bochum,30.0,Vonovia Ruhrstadion,€-1.10m,26.8,14.0,3.0
+Hatayspor,31.0,Mersin Stadyumu,€-115k,24.4,12.0,4.0
+AOK Kerkyra,8.0,Ethniko Stadio Kerkyras,+-0,28.1,1.0,0.0
+SPAL,32.0,Paolo Mazza,+€2.75m,26.0,8.0,2.0
+Adana Demirspor,31.0,Yeni Adana Stadyumu,€-6.00m,26.4,16.0,3.0
+PFK Lviv,3.0,Stadion SKIF,+-0,18.3,0.0,0.0
+KVC Westerlo,33.0,Het Kuipje,€-13.55m,23.7,19.0,4.0
+Vejle Boldklub,31.0,Vejle Stadion,+-0,24.3,20.0,4.0
+FC Crotone,25.0,Ezio Scida,+€3.90m,27.0,6.0,1.0
+B SAD,25.0,Estádio Nacional do Jamor,+€1.80m,24.2,13.0,4.0
+ESTAC Troyes,29.0,Stade de l'Aube,+-0,23.1,16.0,5.0
+FC Pari Nizhniy Novgorod,26.0,Nizhny Novgorod Stadium,+€415k,25.2,5.0,3.0
+Catania SSD,28.0,Cibali - Angelo Massimino,+-0,25.9,3.0,0.0
+Thonon Évian Grand Genève FC,27.0,Stade Camille Fournier,+-0,27.4,6.0,1.0
+Nîmes Olympique,26.0,Stade des Antonins,+€2.50m,25.4,12.0,3.0
+NK Veres Rivne,24.0,Stadion Avangard (2022),+-0,27.1,2.0,0.0
+US Lecce,31.0,Ettore Giardiniero,€-9.04m,23.5,24.0,6.0
+1.FC Nuremberg,33.0,Max-Morlock-Stadion,+€2.63m,25.2,7.0,2.0
+Iraklis Thessaloniki,27.0,Kaftanzoglio Stadio,+-0,24.3,9.0,0.0
+Sporting Gijón,28.0,El Molinón - Enrique Castro Quini,+€5.23m,26.2,10.0,2.0
+Académica Coimbra,26.0,Estádio Cidade de Coimbra,+€150k,25.2,6.0,0.0
+Wigan Athletic,27.0,DW Stadium,+-0,27.9,15.0,8.0
+Arminia Bielefeld,27.0,SchücoArena,+€5.90m,25.3,15.0,4.0
+SV Darmstadt 98,28.0,Merck-Stadion am Böllenfalltor,€-1.60m,25.7,12.0,1.0
+Torpedo Moscow,28.0,Luzhniki Stadium,€-2.05m,25.6,6.0,3.0
+Clermont Foot 63,24.0,Stade Gabriel-Montpied,€-6.60m,26.1,14.0,6.0
+Ingulets Petrove,23.0,Stadion Ingulets,+€100k,25.7,2.0,0.0
+Kryvbas Kryvyi Rig,29.0,Girnyk,+€500k,24.8,4.0,2.0
+Amiens SC,24.0,Stade Crédit Agricole la Licorne,+€700k,24.1,10.0,7.0
+US Salernitana 1919,31.0,Arechi,€-17.50m,26.8,19.0,9.0
+SD Huesca,24.0,El Alcoraz,+€1.43m,27.5,8.0,2.0
+GS Ergotelis,3.0,Pankritio Stadio,+-0,23.3,0.0,0.0
+SC Paderborn 07,26.0,Home Deluxe Arena,€-450k,25.7,5.0,1.0
+FC Ingolstadt 04,28.0,Audi Sportpark,+€1.55m,24.3,8.0,1.0
+AC Monza,33.0,U-Power Stadium - Brianteo,€-41.00m,25.9,11.0,3.0
+Cardiff City,28.0,Cardiff City Stadium,€-655k,25.5,24.0,8.0
+Enisey Krasnoyarsk,26.0,Zentralstadion Krasnoyarsk,+€601k,25.6,2.0,1.0
+Giresunspor,17.0,Çotanak Spor Kompleksi,+-0,22.5,1.0,1.0
+FK Minaj,25.0,Stadion Minaj,+-0,24.9,1.0,0.0
+Frosinone Calcio,23.0,Benito Stirpe,+€6.60m,24.8,12.0,1.0
+Rukh Lviv,26.0,Arena Lviv,+-0,22.8,4.0,0.0
+FC Vizela,26.0,Estádio do Vizela,+€1.00m,24.3,17.0,3.0
+Huddersfield Town,33.0,John Smith's Stadium,+€11.28m,26.7,12.0,3.0
+Nottingham Forest,37.0,The City Ground,€-28.70m,26.7,26.0,19.0
+Benevento Calcio,31.0,Ciro Vigorito,€-1.93m,26.7,16.0,2.0
+De Graafschap Doetinchem,30.0,"Stadion ""De Vijverberg""",+-0,23.7,6.0,0.0
+Delfino Pescara 1936,28.0,Adriatico,+€4.60m,24.6,6.0,1.0
+US Cremonese,29.0,Giovanni Zini,+€5.00m,25.4,9.0,2.0
+Real Zaragoza,27.0,La Romareda,+€1.50m,26.0,9.0,3.0
+FC Sochaux-Montbéliard,25.0,Stade Auguste-Bonal,+€4.00m,26.2,11.0,4.0
+AC Ajaccio,24.0,Stade François-Coty,+-0,27.5,11.0,6.0
+Elazigspor,33.0,Elazığ Doğukent Stadı,+€17k,24.9,0.0,0.0
+Vendsyssel FF,24.0,Nord Energi Arena,€-20k,25.1,7.0,0.0
+Reading FC,27.0,Select Car Leasing Stadium,+-0,27.1,17.0,7.0
+Valenciennes FC,28.0,Stade du Hainaut,€-500k,25.0,8.0,4.0
+FC Helsingör,23.0,Helsingør Ny Stadion,+€320k,24.6,4.0,1.0
+AC Carpi,25.0,Sandro Cabassi,+-0,23.6,6.0,1.0
+Beerschot V.A.,26.0,Olympisch Stadion,+€395k,23.9,12.0,2.0
+AS Nancy-Lorraine,27.0,Stade Marcel-Picot,+-0,25.7,5.0,0.0
+Erzurumspor FK,28.0,Erzurum Kazım Karabekir,+€70k,26.1,7.0,1.0
+Middlesbrough FC,25.0,Riverside Stadium,+€16.68m,26.1,8.0,6.0
+FC Volendam,27.0,Kras Stadion,+-0,22.6,10.0,0.0
+Queens Park Rangers,26.0,Loftus Road Stadium,+€900k,25.9,15.0,8.0
+Casa Pia AC,28.0,Estádio Nacional do Jamor,€-225k,26.2,16.0,2.0
+SKA Khabarovsk,27.0,Lenin Stadion,€-93k,25.7,4.0,0.0
+Luton Town,29.0,Kenilworth Road,€-16.95m,26.0,14.0,5.0
+ACN Siena,29.0,Artemio Franchi,+-0,25.0,1.0,0.0
+Zirka Kropyvnytskyi,7.0,Zirka,+-0,27.4,0.0,0.0
+FC Penafiel,28.0,Estádio Municipal 25 de Abril,+-0,27.9,4.0,0.0
+Cesena FC,28.0,Orogel Stadium - Dino Manuzzi,+€335k,26.0,4.0,0.0
+Niki Volou,26.0,Panthessaliko Stadio,+-0,27.2,7.0,2.0
+Denizlispor,27.0,Denizli Atatürk Stadı,+-0,25.8,3.0,1.0
+Fakel Voronezh,24.0,Central Stadium of Profsoyuzes,€-30k,27.7,2.0,1.0
+SpVgg Greuther Fürth,28.0,Sportpark Ronhof | Thomas Sommer,+€3.97m,24.0,11.0,2.0
+Brescia Calcio,28.0,Mario Rigamonti,+€3.65m,25.1,12.0,1.0
+Metalist 1925 Kharkiv,28.0,Livyi Bereg Arena,€-275k,25.6,3.0,0.0
+Hvidovre IF,26.0,PRO VENTILATION Arena,+€335k,26.3,3.0,0.0
+Eintracht Braunschweig,29.0,EINTRACHT-Stadion,€-600k,26.0,9.0,0.0
+RFC Seraing,22.0,Stade du Paray,+€400k,23.5,13.0,2.0
+SC Farense,27.0,Estádio São Luís,+-0,26.5,13.0,1.0
+1.FC Heidenheim 1846,30.0,Voith-Arena,€-2.30m,25.1,5.0,0.0
+Ionikos Nikeas,17.0,Dimotiko Gipedo Neapolis,+-0,28.4,11.0,0.0
+Córdoba CF,24.0,Nuevo Arcángel,+-0,27.9,4.0,0.0
+Istanbulspor,30.0,Esenyurt Necmi Kadıoğlu Stadyumu,€-400k,24.1,15.0,5.0
+Panserraikos,41.0,Dimotiko Gipedo Serron,+-0,24.9,14.0,3.0
+Venezia FC,27.0,Pier Luigi Penzo,+€4.83m,25.6,17.0,5.0
+US Livorno 1915,28.0,Armando Picchi,+-0,23.8,3.0,0.0
+Rotor Volgograd,27.0,Volgograd Arena,€-13k,23.9,2.0,0.0
+SC Olhanense,21.0,Estádio José Arcanjo,+-0,23.0,10.0,0.0
+FC Dordrecht,29.0,Matchoholic Stadion,+-0,23.3,12.0,1.0
+Metalist Kharkiv,25.0,Avangard,+€300k,26.1,7.0,0.0
+Altay SK,31.0,Alsancak Mustafa Denizli Stadı,+€1.42m,25.3,3.0,0.0
+SC Beira-Mar,27.0,Estádio Mário Duarte,+-0,26.8,6.0,1.0
+FK Obolon Kyiv,25.0,Obolon-Arena,+-0,25.8,1.0,0.0
+AJ Auxerre,26.0,Stade de l'Abbé-Deschamps,+-0,24.3,15.0,6.0
+Baltika Kaliningrad,24.0,Rostech Arena,€-670k,26.1,7.0,3.0
+GFC Ajaccio,5.0,Stade Ange-Casanova,+-0,26.8,1.0,1.0
+Ümraniyespor,12.0,Ümraniye Belediyesi Şehir Stadı,+-0,25.8,3.0,1.0
+Balikesirspor,22.0,Balıkesir Atatürk,+-0,22.0,1.0,0.0
+Almere City FC,24.0,Yanmar Stadion,+-0,24.7,11.0,1.0
+Adanaspor,10.0,Yeni Adana Stadyumu,+-0,23.9,4.0,0.0
+Orduspor,2.0,19 Eylül Stadyum,+-0,21.0,0.0,0.0
+FK Polissya Zhytomyr,28.0,Stadion Polissya,€-550k,25.9,4.0,1.0
+LNZ Cherkasy,24.0,Cherkasy-Arena,€-150k,27.6,0.0,0.0
+AE Kifisias,27.0,Gipedo Rizoupolis,+-0,25.7,11.0,0.0
+CF Estrela Amadora SAD,32.0,Estádio José Gomes,+-0,25.5,23.0,4.0
+Pendikspor,31.0,Pendik Stadı,+-0,27.6,8.0,1.0
+Samsunspor,24.0,Samsun Yeni 19 Mayıs Stadyumu,€-200k,27.2,11.0,3.0
+Le Havre AC,30.0,Stade Océane,€-1.90m,24.8,17.0,6.0
+RWD Molenbeek,24.0,Edmond Machtensstadion,€-2.95m,24.5,12.0,1.0

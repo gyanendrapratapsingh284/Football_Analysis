@@ -1,0 +1,392 @@
+current_club_name,Sum of Total Assist,Sum of Total Goals,Sum of Total Red Card,Sum of Total Yellow card
+FC Barcelona,780,1146,22,1071
+Manchester United,750,1067,13,921
+Juventus FC,805,1024,32,1134
+Olympiacos Piraeus,718,1013,25,1210
+AtlÃ©tico de Madrid,679,984,21,982
+Paris Saint-Germain,626,969,18,736
+Inter Milan,678,958,16,1017
+Chelsea FC,661,889,17,675
+Bayern Munich,771,885,8,541
+Galatasaray,597,853,15,903
+Fenerbahce,542,841,22,891
+SL Benfica,650,809,19,975
+Liverpool FC,667,807,9,592
+Tottenham Hotspur,444,770,17,653
+Antalyaspor,644,764,31,1349
+Atalanta BC,477,720,14,699
+Besiktas JK,458,710,24,726
+Villarreal CF,493,707,22,1038
+SS Lazio,594,690,23,1162
+FC Midtjylland,434,684,12,717
+AC Milan,423,680,23,780
+ACF Fiorentina,562,676,28,859
+FC Utrecht,377,674,9,435
+Real Madrid,530,648,10,548
+Feyenoord Rotterdam,460,629,13,539
+Bayer 04 Leverkusen,495,621,19,667
+Sporting CP,607,618,25,1042
+Borussia Dortmund,580,611,8,536
+Ajax Amsterdam,478,611,7,368
+Basaksehir FK,480,610,17,811
+Leicester City,394,609,15,649
+Bologna FC 1909,452,609,25,957
+RB Leipzig,431,608,11,385
+FC Porto,491,606,25,745
+SC Braga,502,604,16,737
+West Ham United,376,602,15,578
+Rangers FC,430,591,12,574
+PAOK Thessaloniki,495,586,19,998
+AS Monaco,408,585,21,603
+Sevilla FC,609,576,19,906
+Alanyaspor,412,572,24,781
+Konyaspor,387,570,19,897
+Shakhtar Donetsk,402,566,8,592
+Manchester City,523,564,12,529
+AS Roma,321,538,15,579
+Dynamo Kyiv,352,536,20,796
+SSC Napoli,375,527,12,474
+Hertha BSC,360,519,12,599
+AEK Athens,383,517,24,787
+Crystal Palace,280,513,14,631
+Spartak Moscow,421,508,10,621
+Real Betis BalompiÃ©,352,506,17,743
+Adana Demirspor,342,503,17,516
+VitÃ³ria GuimarÃ£es SC,341,501,26,873
+TSG 1899 Hoffenheim,404,500,6,604
+FC Nantes,332,497,21,705
+Getafe CF,297,497,38,1016
+Portimonense SC,276,476,18,739
+Sivasspor,346,471,17,813
+Boavista FC,318,470,23,956
+Southampton FC,277,459,3,413
+Athletic Bilbao,400,458,10,876
+Lokomotiv Moscow,351,453,20,791
+Olympique Lyon,281,453,16,428
+Olympique Marseille,432,451,24,648
+Newcastle United,349,450,11,585
+PSV Eindhoven,307,448,12,343
+FC Copenhagen,342,446,14,498
+Everton FC,390,445,15,623
+FK Krasnodar,327,439,16,569
+Celta de Vigo,285,434,10,664
+Aston Villa,434,431,22,732
+Valencia CF,309,430,15,737
+Celtic FC,320,427,7,311
+Aris Thessaloniki,232,427,15,635
+Borussia MÃ¶nchengladbach,329,422,12,376
+Heart of Midlothian FC,311,420,13,492
+Fatih KaragÃ¼mrÃ¼k,315,417,18,476
+Real Sociedad,382,416,9,611
+Zenit St. Petersburg,336,415,6,300
+VfL Wolfsburg,353,408,8,430
+Eintracht Frankfurt,347,402,9,660
+KAA Gent,344,400,14,484
+SC Freiburg,306,400,4,400
+Trabzonspor,344,398,14,583
+Brighton & Hove Albion,285,398,5,379
+Stade Rennais FC,305,398,16,386
+Zorya Lugansk,307,394,11,589
+RSC Anderlecht,266,392,8,429
+Panetolikos GFS,239,392,12,772
+Cagliari Calcio,303,392,16,744
+CS MarÃ­timo,344,388,32,984
+Royal Antwerp FC,293,387,6,502
+St. Johnstone FC,339,386,23,673
+GÃ¶ztepe,266,386,22,704
+Kayserispor,289,378,21,659
+UC Sampdoria,363,375,17,885
+Kasimpasa,371,374,17,780
+RCD Espanyol Barcelona,342,373,17,836
+Wolverhampton Wanderers,359,372,8,514
+Kilmarnock FC,298,368,22,608
+FC Schalke 04,243,368,15,418
+Hellas Verona,245,361,25,728
+US Salernitana 1919,214,361,16,521
+Standard LiÃ¨ge,270,360,16,524
+SV Zulte Waregem,321,358,21,593
+Watford FC,252,357,16,585
+1.FSV Mainz 05,325,356,8,547
+Fulham FC,293,355,14,548
+FC PaÃ§os de Ferreira,364,354,27,939
+Club Brugge KV,281,353,6,390
+Ural Yekaterinburg,282,352,17,619
+FC Augsburg,332,351,7,619
+LOSC Lille,273,349,11,470
+CA Osasuna,220,347,10,710
+Aarhus GF,265,346,8,501
+Caykur Rizespor,242,341,18,541
+BrÃ¶ndby IF,299,338,11,470
+SV Werder Bremen,313,337,8,561
+Ross County FC,253,336,20,513
+Yeni Malatyaspor,258,336,23,659
+1.FC KÃ¶ln,248,331,2,365
+Udinese Calcio,262,331,15,592
+Silkeborg IF,225,329,7,287
+PAS Lamia 1964,219,328,14,833
+KAS Eupen,283,328,14,652
+Torino FC,284,326,12,576
+US Sassuolo,239,326,15,579
+Panathinaikos Athens,258,325,12,749
+Real Valladolid CF,236,324,8,603
+Oud-Heverlee Leuven,206,321,13,435
+Sparta Rotterdam,314,316,17,555
+SÃ¶nderjyskE,257,315,8,564
+Motherwell FC,292,312,15,581
+Nottingham Forest,185,312,17,587
+RC Strasbourg Alsace,218,312,17,465
+Granada CF,190,310,5,383
+Apollon Smyrnis,198,308,15,763
+Twente Enschede FC,221,308,11,386
+Genoa CFC,202,306,18,731
+Aberdeen FC,253,305,13,492
+Montpellier HSC,208,304,25,474
+Asteras Tripolis,205,304,10,605
+Randers FC,232,303,13,419
+CÃ¡diz CF,179,302,7,488
+Dundee FC,262,301,12,478
+Rayo Vallecano,179,299,15,595
+VfB Stuttgart,205,299,8,374
+Arsenal FC,254,298,15,450
+Stade Brestois 29,190,298,20,335
+FK Rostov,245,296,4,444
+CD Santa Clara,262,295,22,741
+ADO Den Haag,222,292,9,383
+Viborg FF,216,292,5,319
+AE Larisa,191,292,18,896
+Moreirense FC,200,290,22,763
+OFI Crete FC,169,289,10,723
+FC Emmen,181,283,9,361
+Odense Boldklub,186,280,2,335
+Aalborg BK,221,278,6,433
+Hatayspor,261,277,11,474
+KV Kortrijk,198,276,13,545
+KV Mechelen,268,275,27,462
+AC Horsens,130,274,7,247
+Elche CF,228,269,17,536
+Rio Ave FC,189,267,18,610
+MKE AnkaragÃ¼cÃ¼,203,267,11,600
+RSC Charleroi,209,266,10,454
+SD Eibar,184,265,12,590
+Angers SCO,182,265,17,445
+1.FC Union Berlin,288,262,6,477
+APO Levadiakos,193,257,14,775
+Atromitos Athens,215,256,14,737
+Sint-Truidense VV,172,254,13,354
+FC FamalicÃ£o,190,249,19,607
+KV Oostende,206,248,17,472
+NEC Nijmegen,179,248,10,276
+Lyngby BK,173,248,5,373
+AFC Bournemouth,235,246,9,410
+FC Groningen,226,244,11,295
+Akhmat Grozny,203,240,11,595
+Vitesse Arnhem,190,239,8,368
+Genclerbirligi Ankara,168,237,20,500
+Arsenal Tula,208,237,6,580
+Burnley FC,194,236,4,439
+PEC Zwolle,141,232,17,359
+FC Sochi,214,232,13,401
+Gaziantep FK,215,232,15,594
+ESTAC Troyes,166,232,14,406
+OGC Nice,218,231,12,417
+AZ Alkmaar,161,230,10,301
+Fortuna Sittard,181,229,11,365
+PAS Giannina,161,227,5,524
+CSKA Moscow,217,225,6,363
+Volos NPS,168,225,9,470
+Benevento Calcio,133,223,9,379
+FC Girondins Bordeaux,238,223,18,481
+Dundee United FC,187,222,7,408
+RKC Waalwijk,194,221,10,311
+Ionikos Nikeas,142,221,11,463
+GD Chaves,237,220,16,501
+Spezia Calcio,199,219,14,511
+Deportivo AlavÃ©s,155,219,11,647
+St. Mirren FC,194,218,18,398
+FC Nordsjaelland,192,217,8,298
+Giresunspor,167,215,11,319
+FK Oleksandriya,154,214,6,534
+Leeds United,199,212,11,303
+AC Monza,133,211,16,428
+SK Dnipro-1,135,210,8,339
+Norwich City,129,210,6,280
+Brentford FC,128,209,6,334
+RCD Mallorca,146,206,13,456
+SC Cambuur Leeuwarden,147,205,8,181
+Royal Excel Mouscron (-2022),123,203,11,337
+SC Heerenveen,156,201,9,272
+FC Empoli,149,201,6,398
+Stade Reims,222,196,22,369
+CD Tondela,164,193,16,513
+West Bromwich Albion,178,192,13,358
+Levante UD,208,190,18,637
+Willem II Tilburg,153,188,13,311
+VitÃ³ria SetÃºbal FC,143,188,13,570
+FC Arouca,152,188,10,472
+Vorskla Poltava,177,181,11,616
+KRC Genk,148,180,9,176
+AS Saint-Ã‰tienne,140,180,9,365
+CD Feirense,119,180,6,503
+Chornomorets Odessa,115,179,8,436
+Rubin Kazan,166,179,10,441
+SC Farense,93,178,10,349
+Dynamo Moscow,187,176,9,419
+Livingston FC,148,176,12,254
+FK Ufa,178,176,8,581
+GD Estoril Praia,160,175,13,451
+B SAD,104,175,14,471
+Hibernian FC,197,175,8,352
+Erzurumspor FK,113,172,4,320
+Desna Chernigiv,66,172,3,308
+RC Lens,127,171,17,330
+Girona FC,91,169,5,254
+Gil Vicente FC,120,167,13,485
+Heracles Almelo,138,166,11,189
+FC Metz,135,163,23,429
+Kolos Kovalivka,109,163,6,347
+Krylya Sovetov Samara,147,160,9,365
+Hamilton Academical FC,135,160,14,440
+US Cremonese,79,158,6,254
+FC Pari Nizhniy Novgorod,155,158,10,300
+KVC Westerlo,124,157,9,259
+Denizlispor,111,154,6,254
+Excelsior Rotterdam,116,154,6,162
+CD Nacional,128,153,11,456
+Dijon FCO,111,143,11,267
+Royale Union Saint Gilloise,113,143,8,189
+FC Toulouse,103,138,9,290
+Cercle Brugge,120,131,5,268
+VVV-Venlo,116,130,11,225
+FC Vizela,78,128,6,284
+PFK Lviv,127,127,11,599
+Metalist 1925 Kharkiv,82,127,6,284
+Parma Calcio 1913,76,127,3,272
+CF Os Belenenses,95,126,8,318
+UD AlmerÃ­a,75,126,3,213
+KSC Lokeren (- 2020),81,125,3,192
+Chievo Verona,40,122,3,222
+Esbjerg fB,57,120,5,240
+SM Caen,84,120,10,196
+Hobro IK,96,119,3,215
+AO Xanthi,95,119,4,319
+NAC Breda,68,119,6,115
+AJ Auxerre,61,119,5,134
+VfL Bochum,106,117,6,196
+Bursaspor,100,117,8,220
+Olimpik Donetsk,57,117,8,286
+NÃ®mes Olympique,63,116,11,272
+Desportivo Aves (- 2020),108,112,7,234
+Partick Thistle FC,70,110,2,145
+Go Ahead Eagles,112,109,6,198
+FC Volendam,66,108,2,47
+Vejle Boldklub,85,106,7,245
+FK Orenburg,93,105,3,253
+Clermont Foot 63,89,104,10,230
+Arminia Bielefeld,93,104,3,163
+Akhisarspor,107,103,7,358
+AC Ajaccio,79,102,12,129
+CD LeganÃ©s,80,100,3,259
+Altay SK,58,99,5,261
+Karpaty Lviv (-2021),63,97,4,314
+US Lecce,103,96,6,353
+FK Khimki,99,96,9,406
+Kuban Krasnodar (-2018),62,91,6,187
+Panionios Athens,88,88,2,282
+Hannover 96,67,86,2,175
+Ankaraspor,60,86,5,185
+Lierse SK (- 2018),21,85,1,46
+FK Minaj,58,84,5,261
+Venezia FC,91,81,4,169
+SK Beveren,80,80,7,295
+Rukh Lviv,56,80,1,306
+Kryvbas Kryvyi Rig,50,79,5,241
+De Graafschap Doetinchem,71,78,6,96
+SPAL,72,76,10,355
+Sheffield United,51,75,4,167
+Veria NPS,45,75,6,245
+UD Las Palmas,56,73,1,186
+NK Veres Rivne,57,73,7,196
+Ingulets Petrove,45,71,4,203
+Brescia Calcio,49,69,6,139
+Fakel Voronezh,41,68,3,140
+Amiens SC,60,66,8,159
+Fortuna DÃ¼sseldorf,53,66,3,153
+AO Platanias,59,64,3,188
+Torpedo Moscow,67,63,4,218
+1.FC Nuremberg,24,62,4,66
+Frosinone Calcio,73,62,3,271
+FC Lorient,101,61,9,254
+Beerschot V.A.,49,59,3,124
+EA Guingamp,55,58,6,152
+Hamburger SV,41,57,2,91
+Anzhi Makhachkala ( -2022),48,55,2,174
+Ãœmraniyespor,47,55,7,192
+Deportivo de La CoruÃ±a,59,54,2,210
+Amkar Perm,40,54,1,130
+FC Crotone,69,53,5,220
+Kardemir KarabÃ¼kspor,37,53,4,137
+FC Vestsjaelland,52,50,0,70
+MÃ¡laga CF,37,50,4,150
+Roda JC Kerkrade,36,50,2,137
+SpVgg Greuther FÃ¼rth,30,50,2,78
+PFK Tambov (-2021),74,48,4,242
+FC Ingolstadt 04,14,48,0,53
+RFC Seraing,38,48,9,172
+Enisey Krasnoyarsk,54,47,7,187
+Hull City,30,46,5,83
+Mersin Talimyurdu SK,41,46,5,115
+AOK Kerkyra,42,45,3,194
+Stoke City,35,44,2,80
+SC Paderborn 07,39,43,1,89
+Panthrakikos Komotini,25,42,0,122
+Istanbulspor,30,41,3,97
+Dnipro Dnipropetrovsk (-2020),29,41,0,114
+Cardiff City,26,41,2,78
+Inverness Caledonian Thistle FC,32,40,6,80
+Iraklis Thessaloniki,24,40,1,73
+Vendsyssel FF,39,40,3,72
+Eskisehirspor,19,40,1,82
+Sporting GijÃ³n,28,39,1,132
+Huddersfield Town,42,39,3,119
+AcadÃ©mica Coimbra,25,37,1,85
+SV Darmstadt 98,32,36,1,95
+Casa Pia AC,33,36,8,181
+Gaziantepspor (- 2020),30,36,3,148
+Metalist Kharkiv,32,36,5,173
+Swansea City,27,36,5,82
+SD Huesca,40,35,8,243
+GFC Ajaccio,14,33,2,70
+FC HelsingÃ¶r,24,32,2,81
+FK Mariupol,25,32,3,176
+Sunderland AFC,41,30,2,122
+Metalist Kharkiv (- 2016),15,29,4,75
+PFK Stal Kamyanske (-2018),17,29,1,60
+Adanaspor,19,28,2,105
+Zirka Kropyvnytskyi,10,27,0,96
+Metalurg Zaporizhya (-2016),14,27,1,86
+Arsenal Kyiv,25,27,1,59
+FC Tosno (-2018),31,26,2,77
+Delfino Pescara 1936,12,26,1,81
+AS Nancy-Lorraine,14,25,2,52
+Tom Tomsk,12,21,1,59
+SKA Khabarovsk,21,21,3,86
+GS Ergotelis,17,20,0,52
+Goverla Uzhgorod (- 2016),15,20,1,79
+Palermo FC,23,19,3,141
+Rotor Volgograd,11,18,0,56
+SC Bastia,18,18,4,107
+Thonon Ã‰vian Grand GenÃ¨ve FC,10,18,2,33
+Middlesbrough FC,21,18,1,45
+CF UniÃ£o Madeira (-2021),12,14,0,17
+Volyn Lutsk,8,13,1,73
+Balikesirspor,6,8,0,19
+Cesena FC,5,7,2,70
+Mordovia Saransk (-2020),12,7,0,71
+Kayseri Erciyesspor,1,5,0,16
+Metalurg Donetsk (- 2015),6,5,1,11
+Queens Park Rangers,4,4,0,27
+AEL Kalloni,7,4,2,62
+FC Dordrecht,4,4,1,15
+AC Carpi,8,4,0,26
+CÃ³rdoba CF,3,3,2,50
+SC Beira-Mar,1,0,0,0

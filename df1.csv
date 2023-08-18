@@ -1,0 +1,427 @@
+name,is_win,own_goals,opponent_goals
+Bayern Munich,428.0,1554.0,523.0
+FC Barcelona,422.0,1494.0,576.0
+Real Madrid,417.0,1458.0,624.0
+Manchester City,399.0,1376.0,542.0
+Juventus FC,393.0,1096.0,500.0
+Celtic FC,390.0,1301.0,503.0
+Paris Saint-Germain,359.0,1218.0,440.0
+SL Benfica,355.0,1123.0,453.0
+Atlético de Madrid,348.0,987.0,477.0
+Olympiacos Piraeus,347.0,1062.0,428.0
+Ajax Amsterdam,347.0,1290.0,523.0
+FC Porto,341.0,1028.0,412.0
+Chelsea FC,333.0,1088.0,627.0
+SSC Napoli,332.0,1106.0,603.0
+PSV Eindhoven,331.0,1185.0,573.0
+Liverpool FC,330.0,1150.0,627.0
+Manchester United,327.0,1028.0,620.0
+Arsenal FC,326.0,1069.0,639.0
+Borussia Dortmund,316.0,1188.0,678.0
+Sevilla FC,311.0,1025.0,716.0
+Tottenham Hotspur,300.0,1029.0,652.0
+Sporting CP,300.0,909.0,481.0
+Shakhtar Donetsk,300.0,1006.0,431.0
+Inter Milan,288.0,955.0,577.0
+PAOK Thessaloniki,286.0,878.0,440.0
+AS Roma,285.0,947.0,628.0
+Zenit St. Petersburg,283.0,940.0,466.0
+Feyenoord Rotterdam,275.0,986.0,557.0
+SS Lazio,274.0,932.0,671.0
+Dynamo Kyiv,271.0,847.0,419.0
+AC Milan,261.0,849.0,594.0
+SC Braga,261.0,833.0,535.0
+Fenerbahce,260.0,841.0,498.0
+FC Copenhagen,259.0,824.0,467.0
+AZ Alkmaar,255.0,934.0,622.0
+Bayer 04 Leverkusen,252.0,947.0,664.0
+Besiktas JK,250.0,855.0,547.0
+Olympique Lyon,249.0,889.0,582.0
+CSKA Moscow,242.0,722.0,449.0
+Club Brugge KV,240.0,821.0,480.0
+Galatasaray,239.0,804.0,526.0
+Villarreal CF,235.0,817.0,570.0
+FC Midtjylland,227.0,760.0,490.0
+Aberdeen FC,224.0,678.0,516.0
+AS Monaco,222.0,751.0,536.0
+Valencia CF,222.0,786.0,661.0
+Atalanta BC,220.0,824.0,632.0
+Olympique Marseille,220.0,725.0,554.0
+Rangers FC,220.0,723.0,336.0
+ACF Fiorentina,219.0,773.0,608.0
+Athletic Bilbao,218.0,726.0,629.0
+Real Sociedad,216.0,735.0,608.0
+Panathinaikos Athens,215.0,605.0,380.0
+FK Krasnodar,212.0,737.0,512.0
+RSC Anderlecht,204.0,718.0,476.0
+KRC Genk,200.0,718.0,515.0
+Borussia Mönchengladbach,199.0,789.0,648.0
+Trabzonspor,199.0,688.0,559.0
+Spartak Moscow,199.0,645.0,524.0
+VfL Wolfsburg,197.0,717.0,628.0
+Eintracht Frankfurt,197.0,749.0,700.0
+AEK Athens,196.0,580.0,302.0
+Lokomotiv Moscow,196.0,619.0,488.0
+LOSC Lille,194.0,590.0,487.0
+Vitesse Arnhem,190.0,744.0,579.0
+KAA Gent,186.0,655.0,477.0
+Bröndby IF,186.0,636.0,475.0
+RB Leipzig,185.0,673.0,418.0
+Basaksehir FK,184.0,589.0,429.0
+Everton FC,182.0,657.0,643.0
+OGC Nice,182.0,559.0,519.0
+FC Utrecht,181.0,702.0,591.0
+Real Betis Balompié,178.0,629.0,665.0
+Stade Rennais FC,174.0,612.0,535.0
+West Ham United,171.0,653.0,685.0
+Standard Liège,171.0,601.0,513.0
+Leicester City,169.0,618.0,545.0
+FC Schalke 04,165.0,607.0,650.0
+Zorya Lugansk,165.0,553.0,409.0
+Torino FC,164.0,675.0,630.0
+Vitória Guimarães SC,162.0,548.0,533.0
+Celta de Vigo,162.0,613.0,662.0
+AS Saint-Étienne,158.0,522.0,481.0
+Twente Enschede FC,156.0,625.0,530.0
+St. Johnstone FC,156.0,478.0,548.0
+Southampton FC,156.0,597.0,681.0
+Aalborg BK,156.0,563.0,455.0
+TSG 1899 Hoffenheim,155.0,747.0,699.0
+Motherwell FC,154.0,557.0,648.0
+Atromitos Athens,153.0,470.0,413.0
+Asteras Tripolis,153.0,490.0,457.0
+SC Heerenveen,150.0,637.0,649.0
+FK Rostov,148.0,498.0,489.0
+SC Freiburg,148.0,556.0,589.0
+Udinese Calcio,147.0,588.0,672.0
+UC Sampdoria,146.0,582.0,686.0
+Dynamo Moscow,146.0,505.0,438.0
+1.FSV Mainz 05,144.0,584.0,647.0
+Akhmat Grozny,143.0,459.0,469.0
+FC Nordsjaelland,143.0,538.0,492.0
+FC Girondins Bordeaux,142.0,511.0,536.0
+Randers FC,141.0,479.0,441.0
+Montpellier HSC,141.0,550.0,568.0
+US Sassuolo,140.0,573.0,636.0
+Newcastle United,139.0,495.0,611.0
+RSC Charleroi,138.0,476.0,440.0
+RCD Espanyol Barcelona,138.0,509.0,612.0
+Rio Ave FC,138.0,463.0,492.0
+Kasimpasa,137.0,578.0,592.0
+Crystal Palace,136.0,472.0,565.0
+FC Groningen,136.0,531.0,587.0
+Rubin Kazan,135.0,416.0,399.0
+Heracles Almelo,132.0,558.0,624.0
+SV Zulte Waregem,132.0,549.0,624.0
+PEC Zwolle,131.0,526.0,595.0
+Vorskla Poltava,130.0,404.0,396.0
+Sivasspor,130.0,496.0,516.0
+Hibernian FC,130.0,469.0,429.0
+Heart of Midlothian FC,130.0,477.0,467.0
+CS Marítimo,129.0,441.0,564.0
+FC Augsburg,128.0,516.0,646.0
+Getafe CF,127.0,413.0,520.0
+Konyaspor,126.0,454.0,451.0
+SönderjyskE,125.0,480.0,485.0
+Odense Boldklub,122.0,485.0,480.0
+Hertha BSC,122.0,503.0,617.0
+SV Werder Bremen,122.0,558.0,659.0
+FC Nantes,121.0,398.0,478.0
+Bologna FC 1909,120.0,471.0,587.0
+Kilmarnock FC,120.0,452.0,556.0
+Antalyaspor,119.0,445.0,514.0
+PAS Giannina,118.0,373.0,402.0
+Aarhus GF,117.0,472.0,436.0
+Levante UD,117.0,475.0,600.0
+KV Kortrijk,116.0,448.0,493.0
+FC Paços de Ferreira,115.0,411.0,556.0
+Genoa CFC,114.0,477.0,610.0
+Ural Yekaterinburg,112.0,390.0,495.0
+KV Mechelen,112.0,447.0,498.0
+Dnipro Dnipropetrovsk (-2020),112.0,351.0,201.0
+VfB Stuttgart,111.0,473.0,586.0
+Royal Antwerp FC,110.0,343.0,265.0
+Panionios Athens,109.0,328.0,342.0
+Cagliari Calcio,108.0,441.0,601.0
+Granada CF,106.0,392.0,557.0
+Kayserispor,105.0,413.0,553.0
+Ross County FC,103.0,440.0,610.0
+KV Oostende,102.0,395.0,510.0
+Dundee United FC,101.0,388.0,440.0
+Stade Reims,100.0,365.0,423.0
+Willem II Tilburg,100.0,417.0,567.0
+Rayo Vallecano,100.0,372.0,498.0
+Moreirense FC,98.0,372.0,473.0
+Hellas Verona,98.0,417.0,546.0
+Alanyaspor,98.0,386.0,378.0
+GD Estoril Praia,98.0,351.0,405.0
+AO Xanthi,98.0,311.0,325.0
+1.FC Köln,98.0,447.0,489.0
+Aston Villa,97.0,369.0,515.0
+Panetolikos GFS,96.0,327.0,445.0
+ADO Den Haag,95.0,431.0,585.0
+FC Lorient,94.0,377.0,473.0
+Inverness Caledonian Thistle FC,93.0,350.0,337.0
+CA Osasuna,93.0,326.0,448.0
+Wolverhampton Wanderers,93.0,282.0,293.0
+Aris Thessaloniki,92.0,298.0,272.0
+Esbjerg fB,91.0,365.0,366.0
+Boavista FC,91.0,322.0,427.0
+SD Eibar,90.0,342.0,414.0
+Burnley FC,89.0,305.0,426.0
+FC Toulouse,89.0,366.0,486.0
+Deportivo Alavés,87.0,264.0,360.0
+Krylya Sovetov Samara,87.0,325.0,391.0
+Brighton & Hove Albion,87.0,338.0,364.0
+Bursaspor,86.0,326.0,344.0
+Genclerbirligi Ankara,85.0,326.0,396.0
+FK Oleksandriya,85.0,309.0,294.0
+Swansea City,85.0,339.0,393.0
+St. Mirren FC,85.0,328.0,479.0
+APO Levadiakos,84.0,269.0,382.0
+Málaga CF,84.0,314.0,353.0
+OFI Crete FC,84.0,286.0,390.0
+Sint-Truidense VV,83.0,293.0,354.0
+Angers SCO,82.0,311.0,415.0
+Chornomorets Odessa,81.0,277.0,377.0
+1.FC Union Berlin,81.0,254.0,234.0
+AFC Bournemouth,80.0,332.0,445.0
+Caykur Rizespor,79.0,350.0,446.0
+Stoke City,78.0,278.0,355.0
+Hannover 96,77.0,339.0,422.0
+Chievo Verona,77.0,283.0,415.0
+West Bromwich Albion,77.0,328.0,442.0
+Hamburger SV,76.0,290.0,401.0
+FK Ufa,76.0,260.0,326.0
+Akhisarspor,74.0,290.0,354.0
+AC Horsens,74.0,291.0,357.0
+Watford FC,74.0,277.0,421.0
+Gil Vicente FC,73.0,278.0,372.0
+RC Strasbourg Alsace,72.0,301.0,313.0
+Vitória Setúbal FC,72.0,293.0,426.0
+FC Arouca,72.0,253.0,334.0
+EA Guingamp,72.0,254.0,345.0
+Sparta Rotterdam,72.0,297.0,359.0
+KSC Lokeren (- 2020),71.0,267.0,290.0
+Arsenal Tula,71.0,259.0,362.0
+NEC Nijmegen,71.0,318.0,397.0
+Parma Calcio 1913,70.0,304.0,394.0
+CD Nacional,70.0,292.0,410.0
+FC Empoli,69.0,299.0,389.0
+FK Mariupol,68.0,255.0,356.0
+Cercle Brugge,68.0,281.0,422.0
+Real Valladolid CF,68.0,270.0,363.0
+Portimonense SC,68.0,252.0,322.0
+Hamilton Academical FC,67.0,282.0,446.0
+AO Platanias,67.0,217.0,296.0
+Anzhi Makhachkala ( -2022),66.0,233.0,314.0
+Dundee FC,66.0,284.0,454.0
+Silkeborg IF,66.0,323.0,382.0
+CD Tondela,66.0,273.0,407.0
+Excelsior Rotterdam,65.0,305.0,437.0
+RC Lens,64.0,217.0,192.0
+CD Santa Clara,64.0,242.0,284.0
+SK Dnipro-1,63.0,210.0,151.0
+SK Beveren,63.0,306.0,461.0
+Livingston FC,62.0,210.0,239.0
+Go Ahead Eagles,62.0,271.0,372.0
+Metalist Kharkiv (- 2016),61.0,205.0,163.0
+Partick Thistle FC,61.0,238.0,297.0
+SC Cambuur Leeuwarden,60.0,291.0,376.0
+FC Sochi,59.0,222.0,199.0
+FK Orenburg,59.0,215.0,239.0
+SC Bastia,59.0,194.0,264.0
+Elche CF,58.0,211.0,328.0
+CF Os Belenenses,58.0,196.0,265.0
+Fulham FC,58.0,247.0,380.0
+KAS Eupen,57.0,265.0,422.0
+Fortuna Sittard,56.0,244.0,351.0
+RKC Waalwijk,56.0,278.0,380.0
+Oud-Heverlee Leuven,56.0,276.0,317.0
+Viborg FF,56.0,246.0,257.0
+Royal Excel Mouscron (-2022),56.0,243.0,341.0
+Göztepe,55.0,229.0,277.0
+SM Caen,55.0,185.0,278.0
+CD Leganés,55.0,191.0,243.0
+Olimpik Donetsk,54.0,210.0,328.0
+RCD Mallorca,54.0,198.0,280.0
+Royale Union Saint Gilloise,54.0,171.0,86.0
+Amkar Perm,54.0,212.0,271.0
+Roda JC Kerkrade,53.0,265.0,369.0
+Veria NPS,52.0,182.0,256.0
+NAC Breda,52.0,240.0,373.0
+FC Famalicão,52.0,198.0,219.0
+Lyngby BK,51.0,229.0,250.0
+Kuban Krasnodar (-2018),51.0,190.0,181.0
+Karpaty Lviv (-2021),51.0,246.0,352.0
+Stade Brestois 29,51.0,209.0,276.0
+PAS Lamia 1964,50.0,177.0,285.0
+FC Metz,50.0,210.0,361.0
+Desna Chernigiv,50.0,166.0,140.0
+Gaziantepspor (- 2020),49.0,172.0,270.0
+VVV-Venlo,49.0,228.0,366.0
+Yeni Malatyaspor,49.0,210.0,271.0
+Sunderland AFC,48.0,211.0,330.0
+GD Chaves,48.0,181.0,226.0
+AE Larisa,48.0,169.0,252.0
+Sheffield United,48.0,132.0,150.0
+Cádiz CF,47.0,156.0,211.0
+Kardemir Karabükspor,47.0,181.0,291.0
+Volyn Lutsk,47.0,182.0,273.0
+Girona FC,46.0,176.0,194.0
+Spezia Calcio,46.0,202.0,258.0
+UD Las Palmas,45.0,185.0,253.0
+Fatih Karagümrük,45.0,186.0,167.0
+Norwich City,45.0,194.0,389.0
+Hobro IK,44.0,206.0,274.0
+UD Almería,44.0,179.0,244.0
+Deportivo de La Coruña,44.0,256.0,384.0
+Panthrakikos Komotini,44.0,153.0,225.0
+Gaziantep FK,44.0,187.0,229.0
+FK Khimki,43.0,176.0,232.0
+FC Emmen,43.0,194.0,298.0
+Volos NPS,42.0,145.0,178.0
+Hull City,42.0,158.0,234.0
+Leeds United,42.0,178.0,244.0
+Dijon FCO,41.0,184.0,301.0
+Palermo FC,41.0,193.0,287.0
+Fortuna Düsseldorf,40.0,186.0,239.0
+Apollon Smyrnis,40.0,167.0,291.0
+MKE Ankaragücü,40.0,158.0,227.0
+Brentford FC,39.0,156.0,152.0
+Ankaraspor,39.0,161.0,153.0
+Eskisehirspor,39.0,169.0,196.0
+CD Feirense,39.0,136.0,195.0
+VfL Bochum,39.0,138.0,166.0
+Kolos Kovalivka,39.0,115.0,146.0
+Hatayspor,38.0,137.0,196.0
+Metalurg Donetsk (- 2015),36.0,135.0,128.0
+SPAL,35.0,141.0,223.0
+AOK Kerkyra,35.0,127.0,204.0
+PFK Lviv,35.0,115.0,202.0
+Adana Demirspor,35.0,137.0,93.0
+KVC Westerlo,34.0,173.0,242.0
+Vejle Boldklub,34.0,154.0,186.0
+B SAD,33.0,115.0,182.0
+AEL Kalloni,33.0,112.0,186.0
+ESTAC Troyes,33.0,185.0,337.0
+FC Crotone,33.0,155.0,255.0
+Thonon Évian Grand Genève FC,32.0,126.0,166.0
+Catania SSD,32.0,113.0,137.0
+FC Pari Nizhniy Novgorod,32.0,119.0,146.0
+1.FC Nuremberg,31.0,158.0,239.0
+US Lecce,31.0,142.0,184.0
+NK Veres Rivne,31.0,112.0,114.0
+Nîmes Olympique,31.0,126.0,173.0
+Iraklis Thessaloniki,30.0,110.0,132.0
+Sporting Gijón,30.0,119.0,175.0
+Wigan Athletic,29.0,108.0,129.0
+Académica Coimbra,29.0,153.0,235.0
+PFK Stal Kamyanske (-2018),28.0,100.0,129.0
+Arminia Bielefeld,27.0,115.0,162.0
+Desportivo Aves (- 2020),27.0,121.0,193.0
+Mordovia Saransk (-2020),27.0,112.0,179.0
+Kryvbas Kryvyi Rig,26.0,72.0,80.0
+SV Darmstadt 98,26.0,123.0,159.0
+Clermont Foot 63,26.0,83.0,118.0
+Ingulets Petrove,26.0,102.0,142.0
+FC Vestsjaelland,26.0,99.0,110.0
+Torpedo Moscow,26.0,103.0,157.0
+Amiens SC,25.0,99.0,144.0
+FC Ingolstadt 04,24.0,96.0,135.0
+FC Tosno (-2018),24.0,78.0,95.0
+GS Ergotelis,24.0,109.0,158.0
+SD Huesca,24.0,110.0,154.0
+SC Paderborn 07,24.0,127.0,190.0
+US Salernitana 1919,24.0,113.0,173.0
+PFK Tambov (-2021),24.0,92.0,142.0
+Arsenal Kyiv,24.0,77.0,139.0
+AC Monza,23.0,76.0,75.0
+Cardiff City,23.0,98.0,186.0
+Enisey Krasnoyarsk,23.0,83.0,104.0
+FK Minaj,22.0,88.0,142.0
+Mersin Talimyurdu SK,22.0,116.0,172.0
+SK Tavriya Simferopol ( - 2022),22.0,79.0,126.0
+Giresunspor,22.0,83.0,107.0
+Nottingham Forest,21.0,78.0,103.0
+FC Vizela,21.0,82.0,115.0
+Frosinone Calcio,21.0,104.0,185.0
+Benevento Calcio,21.0,109.0,201.0
+US Cremonese,21.0,96.0,124.0
+Huddersfield Town,21.0,86.0,177.0
+De Graafschap Doetinchem,21.0,118.0,191.0
+Rukh Lviv,21.0,88.0,113.0
+Delfino Pescara 1936,21.0,111.0,215.0
+Goverla Uzhgorod (- 2016),20.0,101.0,198.0
+Real Zaragoza,20.0,62.0,91.0
+Vendsyssel FF,20.0,94.0,77.0
+Elazigspor,20.0,69.0,108.0
+AC Ajaccio,20.0,99.0,197.0
+FC Sochaux-Montbéliard,20.0,78.0,118.0
+Valenciennes FC,19.0,86.0,118.0
+Reading FC,19.0,96.0,114.0
+RAEC Mons (- 2015),19.0,77.0,106.0
+FC Helsingör,19.0,69.0,88.0
+Lierse SK (- 2018),19.0,94.0,169.0
+AS Nancy-Lorraine,18.0,67.0,110.0
+Erzurumspor FK,18.0,80.0,111.0
+AC Carpi,18.0,76.0,90.0
+Tom Tomsk,18.0,82.0,144.0
+Beerschot V.A.,18.0,91.0,140.0
+Queens Park Rangers,17.0,102.0,175.0
+SKA Khabarovsk,17.0,67.0,97.0
+Casa Pia AC,17.0,47.0,50.0
+CF União Madeira (-2021),17.0,62.0,90.0
+Middlesbrough FC,17.0,70.0,94.0
+FC Volendam,17.0,77.0,110.0
+Luton Town,17.0,55.0,44.0
+FC Penafiel,16.0,69.0,122.0
+Zirka Kropyvnytskyi,16.0,65.0,103.0
+ACN Siena,16.0,58.0,77.0
+Kayseri Erciyesspor,15.0,77.0,112.0
+Fakel Voronezh,15.0,72.0,105.0
+Cesena FC,15.0,70.0,97.0
+Denizlispor,15.0,69.0,125.0
+Niki Volou,15.0,39.0,118.0
+Brescia Calcio,14.0,68.0,115.0
+Metalist 1925 Kharkiv,14.0,51.0,89.0
+Volga Nizhniy Novgorod (- 2016),14.0,52.0,124.0
+Hvidovre IF,14.0,68.0,56.0
+SpVgg Greuther Fürth,14.0,93.0,179.0
+SC Farense,13.0,60.0,94.0
+FK Sevastopol (- 2014),13.0,43.0,53.0
+Eintracht Braunschweig,13.0,61.0,93.0
+RFC Seraing,13.0,58.0,136.0
+1.FC Heidenheim 1846,12.0,52.0,43.0
+Ionikos Nikeas,12.0,48.0,86.0
+Córdoba CF,12.0,59.0,115.0
+Istanbulspor,12.0,47.0,63.0
+Panserraikos,12.0,39.0,44.0
+Venezia FC,11.0,70.0,107.0
+Metalurg Zaporizhya (-2016),11.0,67.0,254.0
+US Livorno 1915,11.0,64.0,109.0
+Rotor Volgograd,11.0,50.0,94.0
+SC Olhanense,11.0,54.0,106.0
+SC Beira-Mar,9.0,54.0,83.0
+Metalist Kharkiv,9.0,37.0,63.0
+Altay SK,9.0,39.0,57.0
+FC Dordrecht,9.0,42.0,106.0
+FK Obolon Kyiv,8.0,21.0,28.0
+GFC Ajaccio,8.0,37.0,58.0
+AJ Auxerre,8.0,35.0,63.0
+Baltika Kaliningrad,8.0,44.0,49.0
+Ümraniyespor,7.0,47.0,64.0
+Spartak Vladikavkaz (-2020),7.0,39.0,73.0
+Beerschot AC,6.0,31.0,61.0
+Balikesirspor,6.0,48.0,69.0
+Almere City FC,6.0,20.0,36.0
+Adanaspor,6.0,33.0,62.0
+Orduspor,6.0,35.0,51.0
+FK Polissya Zhytomyr,4.0,12.0,9.0
+LNZ Cherkasy,4.0,12.0,13.0
+AE Kifisias,4.0,9.0,14.0
+CF Estrela Amadora SAD,1.0,8.0,13.0
+Pendikspor,0.0,0.0,0.0
+Samsunspor,0.0,0.0,0.0
+Le Havre AC,0.0,0.0,0.0
+RWD Molenbeek,0.0,0.0,4.0
