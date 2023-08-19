@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import plotly.express as px
-from typing import Union, Optional, Literal
 from streamlit_lottie import st_lottie
 import json
 # df_club = pd.read_csv("C:\\Users\\Gyanendra\\Desktop\\files\\clubs.csv")
