@@ -1,3 +1,4 @@
 plotly
 streamlit
 jsonpickle
+streamlit_lottie
