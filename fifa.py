@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import plotly.express as px
-# from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie
 import json
 # df_club = pd.read_csv("C:\\Users\\Gyanendra\\Desktop\\files\\clubs.csv")
 # df_competition = pd.read_csv("C:\\Users\\Gyanendra\\Desktop\\files\\competitions.csv")
@@ -30,12 +30,12 @@ def load_lottiefile(filepath : str):
     with open(filepath,'r') as f:
         return json.load(f) 
 # df = preprocess.preprocessor()
-lottie_coding = load_lottiefile("D:\\animation_llfazi8j.json")
-lottie_coding1 = load_lottiefile("D:\\football_team1.json")
-lottie_coding2 = load_lottiefile("D:\\football_team2.json")
-lottie_coding3 = load_lottiefile("D:\\football_team.json")
-lottie_football4 = load_lottiefile("D:\\football.json")
-lottie_finish5 = load_lottiefile("D:\\finish.json")
+lottie_coding = load_lottiefile("animation_llfazi8j.json")
+lottie_coding1 = load_lottiefile("football_team1.json")
+lottie_coding2 = load_lottiefile("football_team2.json")
+lottie_coding3 = load_lottiefile("football_team.json")
+lottie_football4 = load_lottiefile("football.json")
+lottie_finish5 = load_lottiefile("finish.json")
 st.sidebar.title("Football Analysis")
 # with st.sidebar:
 #     st_lottie(lottie_football4,height=180,width=250)
@@ -53,11 +53,11 @@ footer {visibility : hidden;}
 st.markdown(hide_st_style,unsafe_allow_html=True)
 if user_menu == 'Analysis for Clubs':
     st.title("Football Clubs Analysis")
-    # c1,c2 = st.columns(2)
-    # with c1:
-    #     st_lottie(lottie_coding,height = 180,width=400)
-    # with c2:
-    #     st_lottie(lottie_coding1,height = 180,width=400)
+    c1,c2 = st.columns(2)
+    with c1:
+        st_lottie(lottie_coding,height = 180,width=400)
+    with c2:
+        st_lottie(lottie_coding1,height = 180,width=400)
     # c_n,h_n = preprocess.club()
     c_n = df_new_p['name'].unique().tolist()
     c_n.insert(0,"All Data")
@@ -101,14 +101,14 @@ if user_menu == 'Analysis for Clubs':
             'Total Wins':'lightgreen','Total Goals':'cyan','Total Opponent Goals':'darkred'
         })
         st.plotly_chart(figur)
-    # st_lottie(lottie_finish5,height=250,width=400)
+    st_lottie(lottie_finish5,height=250,width=400)
 if user_menu == "Analysis for Players":
     st.title("Top Statistics")
     player_name = df_foot_n1['player_name'].unique().shape[0]
     country_name = df_foot_n1['country_of_citizenship_x'].unique().shape[0]
     club_name = df_foot_n1['current_club_name'].unique().shape[0]
     
-    col1,col2,col3 = st.columns(3)
+    col1,col2,col3,col4 = st.columns(4)
     with col1:
         st.header('Players')
         st.header(player_name)
@@ -118,8 +118,8 @@ if user_menu == "Analysis for Players":
     with col3:
         st.header('Clubs')
         st.header(club_name)
-    # with col4:
-    #     st_lottie(lottie_coding3,height=180,width=250)
+    with col4:
+        st_lottie(lottie_coding3,height=180,width=250)
     st.header("Goals and Red card vs Players from Football Club Chart")
     fig1= px.line(df_graph2,y = 'current_club_name',x = ['Sum of Total Goals','Sum of Total Red Card'])
     st.plotly_chart(fig1)
@@ -141,39 +141,39 @@ if user_menu == "Analysis for Players":
 
     if n_pl == 'Select above first' and c_pl == 'Select' and cl_pl == 'Select':
         st.header("Please Select to get the Data")
-        # st_lottie(lottie_coding2,height= 300,width=400)
+        st_lottie(lottie_coding2,height= 300,width=400)
         
     # if n_pl != 'Select above first' and c_pl == 'Select' and cl_pl == 'Select':
     #     st.subheader("Please Select")
     if n_pl == 'Select' and c_pl != 'Select' and cl_pl == 'Select':
-        # st_lottie(lottie_coding2,height= 300,width=400)
+        st_lottie(lottie_coding2,height= 300,width=400)
         st.subheader("Players which belongs to the " + c_pl+" Country")
         player1 = helper.player_info1(n_pl,c_pl,cl_pl,df_foot_n1)
         st.table(player1)
         
     if n_pl == 'Select' and c_pl == 'Select' and cl_pl != 'Select':
-        # st_lottie(lottie_coding2,height= 300,width=400)
+        st_lottie(lottie_coding2,height= 300,width=400)
         st.subheader("Players which belongs to the " + cl_pl +" Club")
         player1 = helper.player_info1(n_pl,c_pl,cl_pl,df_foot_n1)
         
         st.table(player1)
     if n_pl == 'Select' and c_pl != 'Select' and cl_pl != 'Select':
-        # st_lottie(lottie_coding2,height= 300,width=400)
+        st_lottie(lottie_coding2,height= 300,width=400)
         st.subheader("Players which belongs to " +c_pl + " Country and " + cl_pl +" Club")
         player1 = helper.player_info1(n_pl,c_pl,cl_pl,df_foot_n1)
         st.table(player1)
     if n_pl != 'Select' and c_pl != 'Select' and cl_pl == 'Select':
-        # st_lottie(lottie_coding2,height= 300,width=400)
+        st_lottie(lottie_coding2,height= 300,width=400)
         st.subheader("Players " +n_pl + " from Country " + c_pl)
         player1 = helper.player_info1(n_pl,c_pl,cl_pl,df_foot_n1)
         st.table(player1)
     if n_pl != 'Select' and c_pl == 'Select' and cl_pl != 'Select':
-        # st_lottie(lottie_coding2,height= 300,width=400)
+        st_lottie(lottie_coding2,height= 300,width=400)
         st.subheader("Players " +n_pl + " from Club " + cl_pl)
         player1 = helper.player_info1(n_pl,c_pl,cl_pl,df_foot_n1)
         st.table(player1)
     if n_pl != 'Select' and c_pl != 'Select' and cl_pl != 'Select':
-        # st_lottie(lottie_coding2,height= 300,width=400)
+        st_lottie(lottie_coding2,height= 300,width=400)
         st.subheader("Player name "+n_pl+ " which belongs to " +c_pl + " Country and " + cl_pl +" Club")
         player1 = helper.player_info1(n_pl,c_pl,cl_pl,df_foot_n1)
         
@@ -215,27 +215,27 @@ if user_menu == "Analysis for Players":
         p_name = np.array(['Total Assist','Total Red Card','Total Yellow Card','Total Goals'])
         fig1 = px.pie(names = p_name,values = pie3,hole = 0.5)
         st.plotly_chart(fig1)
-        # st_lottie(lottie_finish5,height= 250,width=400)
+        st_lottie(lottie_finish5,height= 250,width=400)
     elif(n_pl == 'Select' and c_pl != 'Select'):
         st.subheader('Please Select Player Name for Chart')
-        # st_lottie(lottie_coding2,height= 250,width=400)
+        st_lottie(lottie_coding2,height= 250,width=400)
     elif(n_pl != 'Select' and c_pl == 'Select'):
         st.subheader('Please Select Player and Country for Chart')
-        # st_lottie(lottie_coding2,height= 250,width=400)
+        st_lottie(lottie_coding2,height= 250,width=400)
     else:
         st.subheader('Please Select Player Name and Country for Chart')
-        # st_lottie(lottie_coding2,height= 250,width=400)
+        st_lottie(lottie_coding2,height= 250,width=400)
 if user_menu == "Analysis for Games":
     st.title('Analysis for Football Clubs Matches') 
-    col1,col2= st.columns(2)
+    col1,col2,col3= st.columns(3)
     with col1:
         st.header('Total Clubs')
         st.header('420')
     with col2:
         st.header('Matches')
         st.header('31111')
-    # with col3:
-    #     st_lottie(lottie_coding3,height=180,width=300)
+    with col3:
+        st_lottie(lottie_coding3,height=180,width=300)
     game1_pl = preprocess.game1(df_game1)
     game2_pl = st.sidebar.selectbox('Select Competition',game1_pl)
     round1_pl = preprocess.game2(df_game1,game2_pl)
@@ -295,22 +295,22 @@ if user_menu == "Analysis for Games":
         st.subheader("Chart of Goals in Match (" + match2_pl +")")
         fig = px.pie(names = pie1,values = pie2)
         st.plotly_chart(fig)
-        # st_lottie(lottie_finish5,height=250,width=400)
+        st_lottie(lottie_finish5,height=250,width=400)
     elif(match2_pl != 'Select' and date2_pl == 'Select'):
         st.subheader("Please select Date for Goals Chart of Teams")
     else:
         st.subheader("Please select Match and Date for Goals Chart of Teams")
 if user_menu == "Analysis for Competition":
     st.title("Players Performance in Competitions")
-    col1,col2 = st.columns(2)
+    col1,col2,col3 = st.columns(3)
     with col1:
         st.header('Competitions')
         st.header('42')
     with col2:
         st.header('Players')
         st.header('16689')
-    # with col3:
-    #     st_lottie(lottie_coding,height=180,width=200)
+    with col3:
+        st_lottie(lottie_coding,height=180,width=200)
     League_pl = preprocess.comp1(d_comp)
     lea_pl = st.sidebar.selectbox("Select League Name",League_pl)
     na_pl = preprocess.comp_name(d_comp,lea_pl)
@@ -342,7 +342,7 @@ if user_menu == "Analysis for Competition":
         st.subheader("Details of Player ("+name_pl+") participated in league (" +lea_pl+")")
         comp = helper.competition_info(d_comp,name_pl,lea_pl)
         st.table(comp)
-    # st_lottie(lottie_coding2,height=250,width=400)
+    st_lottie(lottie_coding2,height=250,width=400)
     if (name_pl == 'Select'):
         st.subheader("Please Select for Player Name for Performance Chart")
     if(name_pl != 'Select'):
@@ -350,4 +350,4 @@ if user_menu == "Analysis for Competition":
         st.plotly_chart(com_hist_goals2(d_comp,name_pl))
         st.plotly_chart(com_hist_goals3(d_comp,name_pl))
         st.plotly_chart(com_hist_goals4(d_comp,name_pl))
-        # st_lottie(lottie_finish5,height=250,width=400)
+        st_lottie(lottie_finish5,height=250,width=400)
