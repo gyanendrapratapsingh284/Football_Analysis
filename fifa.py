@@ -202,7 +202,7 @@ if user_menu == "Analysis for Players":
         st.table(player2)
     if n_pl != 'Select' and c_pl == 'Select' and cl_pl != 'Select':
         st.subheader("Players " +n_pl + " from Club " + cl_pl)
-        player2 = helper.player_info2(n_pl,c_pl,cl_pl,df_foot_n1)
+        player2 = helper.player_info2(n_pl,c_pl,cl_pl,df_foot_n3)
         st.table(player2)
     if n_pl != 'Select' and c_pl != 'Select' and cl_pl != 'Select':
         st.subheader("Player name "+n_pl+ " which belongs to " +c_pl + " Country and " + cl_pl +" Club")
