@@ -12,7 +12,7 @@ import json
 # df_players = pd.read_csv("C:\\Users\\Gyanendra\\Desktop\\files\\players.csv")
 # df_appearances = pd.read_csv("C:\\Users\\Gyanendra\\Desktop\\files\\appearances.csv")
 # df_club_games = pd.read_csv("C:\\Users\\Gyanendra\\Desktop\\files\\club_games.csv")
-@st.cache_data
+# @st.cache_data
 df_foot_n1 = pd.read_csv("correct_data1.csv")
 df_foot_n3 = pd.read_csv("correct_data2.csv")
 df_graph2 = pd.read_csv("df_graph2.csv")
