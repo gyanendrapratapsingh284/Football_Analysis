@@ -37,8 +37,8 @@ lottie_coding3 = load_lottiefile("football_team.json")
 lottie_football4 = load_lottiefile("football.json")
 lottie_finish5 = load_lottiefile("finish.json")
 st.sidebar.title("Football Analysis")
-# with st.sidebar:
-#     st_lottie(lottie_football4,height=180,width=250)
+with st.sidebar:
+    st_lottie(lottie_football4,height=180,width=250)
 user_menu = st.sidebar.radio(
     "Select an Option",
     ("Analysis for Clubs","Analysis for Players","Analysis for Games","Analysis for Competition")
