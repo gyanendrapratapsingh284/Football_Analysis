@@ -265,7 +265,7 @@ if user_menu == "Analysis for Games":
         st.table(game)
         st.subheader("You Selected " + game2_pl+" .Select more for Results")
     elif(game2_pl == 'Select' and round2_pl != 'Select' and match2_pl == 'Select' and date2_pl == 'Select'):
-        st.subheader("Reuslt for " + round2_pl + " .Select more")
+        st.subheader("Result for " + round2_pl + " .Select more")
         game = helper.game_info1(df_game1,game2_pl,round2_pl,match2_pl,date2_pl)
         st.table(game)
     elif(game2_pl == 'Select' and round2_pl == 'Select' and match2_pl != 'Select' and date2_pl == 'Select'):
