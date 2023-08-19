@@ -100,7 +100,7 @@ def player_info2(p_name,p_country,c_club,df2):
         p_temp2 = df2[df2['player_name'] == p_name]
     if p_name != 'Select' and p_country == 'Select' and c_club != 'Select':
        
-        p_temp2 = df2[df2['player_name'] == p_name]
+        p_temp2 = df2[(df2['player_name'] == p_name) & (df2['current_club_name'] == c_club)]
     if p_name == 'Select' and p_country != 'Select' and c_club != 'Select':
         
         p_temp2 = df2[(df2['country_of_citizenship_x'] == p_country) & (df2['current_club_name'] == c_club)]
