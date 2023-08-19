@@ -294,7 +294,8 @@ if user_menu == "Analysis for Games":
     pie2 = helper.pie_chart2(df_pie,match2_pl,date2_pl)
     if(match2_pl != 'Select' and date2_pl != 'Select'):
         st.subheader("Chart of Goals in Match (" + match2_pl +")")
-        fig = px.pie(names = pie1,values = pie2)
+        fig = px.pie(names = pie1,values = pie2,color = pie1,color_discrete_map={
+            pie1[0] : 'orange',pie1[1] : 'lightgreen'})
         st.plotly_chart(fig)
         st_lottie(lottie_finish5,height=250,width=400)
     elif(match2_pl != 'Select' and date2_pl == 'Select'):
